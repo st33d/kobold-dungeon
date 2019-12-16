@@ -1,6 +1,4 @@
-# Kobold Dungeon
- 
-Tester
+# Kobold Dungeon Tester
 
 This is a text-adventure-roguelike. It's meant to be played like any multiple-choice-text-adventure ("choose your own adventure" is currently a trademark, so we have to dance around what we mean). The dungeon is generated randomly and the rooms are homemade text adventures whose timeline advances each time the room is revisited.
 
