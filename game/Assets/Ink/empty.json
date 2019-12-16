@@ -1,0 +1,1 @@
+﻿{"inkVersion":18,"root":[["^You enter an empty room. ",{"->":"options"},"\n",["done",{"#f":7,"#n":"g-0"}],null],"done",{"returning":["^You return to an empty room. ",{"->":"options"},"\n",{"#f":3}],"options":[["ev","str","^Exit:£E","/str","/ev",{"*":".^.c-0","flg":4},{"c-0":[{"->":"returning"},"\n",{"#f":7}]}],{"#f":3}],"#f":3}],"listDefs":{}}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 44a20a4eeadec44409c71d01a9cf6080
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bookinsanity
+  fontNames:
+  - Bookinsanity
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 50860bd63c98f01468012d0035b4060e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

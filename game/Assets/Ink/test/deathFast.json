@@ -1,0 +1,1 @@
+﻿{"inkVersion":18,"root":[[{"#":"fade_map_1"},"^You spring back to life.","\n",{"->":"options"},["done",{"#f":7,"#n":"g-0"}],null],"done",{"options":[["ev","str","^Return to the dungeon. £D","/str","/ev",{"*":".^.c-0","flg":4},{"c-0":[{"->":"returning"},"\n",{"#f":7}]}],{"#f":3}],"returning":["^You are resurrected again.","\n",{"->":"options"},{"#f":3}],"#f":3}],"listDefs":{}}

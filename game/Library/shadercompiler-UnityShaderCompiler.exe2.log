@@ -1,0 +1,4 @@
+Base path: 'D:/Program Files/Unity/2019.3.0b8/Editor/Data', plugins path 'D:/Program Files/Unity/2019.3.0b8/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=4 type=0 insize=2295 outsize=858 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_FULL_HDR ok=1
